@@ -1,0 +1,43 @@
+[{
+    "EmpoyeeId":1001,
+    "Department": "XYZ",
+    "Salaries":[
+       {
+          "type":"primary",
+          "salary":10000
+       },
+       {
+        "type":"secondary",
+        "salary":10000
+     }
+    ]
+ },
+ {
+    "EmployeeId":1003,
+    "Department": "XYZ",
+    "Salaries":[
+       {
+          "type":"primary",
+          "salary":10000
+       },
+       {
+        "type":"secondary",
+        "salary":10000
+     }
+    ]
+ },
+ {
+    "EmployeeId":1002,
+    "Department": "XYZ",
+    "Salaries":[
+       {
+          "type":"primary",
+          "salary":10000
+       },
+       {
+        "type":"secondary",
+        "salary":10000
+     }
+    ]
+ }
+]

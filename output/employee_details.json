@@ -1,0 +1,47 @@
+
+[
+    {
+    "EmployeeId":1001,
+    "Name":"Suraj Singh Kumar Chaudhary", 
+    "Department": "XYZ",
+    "Salary": 10000,
+    "Addresses": {
+        "Permanent": {
+            "HomeNo":271,
+            "VillageName":"Kitholi",
+            "PostName":"Jani Khurd",
+            "District":"Meerut"
+        },
+        "Present": {
+            "HomeNo":271,
+            "VillageName":"Kitholi",
+            "PostName":"Jani Khurd",
+            "District":"Meerut"
+        }
+    }
+   
+ },
+ {
+    "EmployeeId":1002,
+    "Name":"Amit Singh Kumar Chaudhary", 
+    "Department": "ABC",
+    "Salary": 15000,
+    "Addresses": {
+        "Permanent": {
+            "HomeNo":271,
+            "VillageName":"Kitholi",
+            "PostName":"Jani Khurd",
+            "District":"Meerut"
+        },
+        "Present": {
+            "HomeNo":271,
+            "VillageName":"Kitholi",
+            "PostName":"Jani Khurd",
+            "District":"Meerut"
+        }
+    }
+   
+ }
+]
+
+

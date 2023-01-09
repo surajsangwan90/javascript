@@ -1,0 +1,39 @@
+[{
+    "EmployeeId":1001,
+    "Address":[
+       {
+          "type":"prmnt",
+          "HomeNo":271,
+          "VillageName":"Kitholi",
+          "PostName":"Jani Khurd",
+          "District":"Meerut"
+       },
+       {
+          "type":"prsnt",
+          "FlatNo":229,
+          "Tower":"G Block",
+          "Area":"Gaur City",
+          "District":"Gautam Budh Nagar"
+       }
+    ]
+ },
+ {
+    "EmployeeId":1002,
+    "Address":[
+       {
+          "type":"prmnt",
+          "HomeNo":271,
+          "VillageName":"Kitholi",
+          "PostName":"Jani Khurd",
+          "District":"Meerut"
+       },
+       {
+          "type":"prsnt",
+          "FlatNo":229,
+          "Tower":"G Block",
+          "Area":"Gaur City",
+          "District":"Gautam Budh Nagar"
+       }
+    ]
+ }
+]   
